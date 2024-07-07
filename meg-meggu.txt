@@ -1,0 +1,5 @@
+This is common file for meg and meggu 
+
+this file only for meg not for meggu.
+
+
